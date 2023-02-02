@@ -1,7 +1,7 @@
 {
   "name": "expenses-app-sample",
   "version": "0.1.0",
-  "homepage": "http://ScottyG666.github.io/React-Sample-expenses-tracker",
+  "homepage": "http://scottyg666.github.io/React-Sample-expenses-tracker/",
   "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.2.1",
